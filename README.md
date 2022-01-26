@@ -1,2 +1,2 @@
 
-- 👀 Quant @ UIUC's Cryptocurrency Research Team GitHub
+### 👀 Quant @ UIUC's Cryptocurrency Research Team GitHub
